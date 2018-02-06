@@ -1,0 +1,22 @@
+{
+  "name": "TestPod",
+  "version": "1.0.1",
+  "summary": "A pod to help otthers that how to create new pod",
+  "description": "My first pod named as TestPod. Hope this helps others",
+  "homepage": "https://github.com/daljeet16/TestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daljeet16": "daljeet.s@vcloudx.com"
+  },
+  "source": {
+    "git": "https://github.com/daljeet16/TestPod.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPod/Classes/**/*"
+}
